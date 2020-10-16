@@ -9,4 +9,22 @@ http://localhost:3000/comments?postId=1
 
 
 
+=> Login Page
+  error => on same page | error message => invalid email or password.
+  success =>
+    login and visit to dashboard and display all post of loggedin users.
+
+=> post title => post show => all comments of perticular post.
+
+=> registration Page
+  error => on same page | error message => email missing | password missing
+  success => redirect to login page.
+
+https://github.com/jeremyben/json-server-auth
+
+
+
+
+
+
 
