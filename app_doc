@@ -1,0 +1,12 @@
+#yarn intall
+
+#yarn start
+
+http://localhost:3000/users
+http://localhost:3000/users?id=1
+http://localhost:3000/posts?userId=1
+http://localhost:3000/comments?postId=1
+
+
+
+
